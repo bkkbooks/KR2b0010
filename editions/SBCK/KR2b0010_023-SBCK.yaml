@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2b0010/SBCK/v1/juan/23
+seq: 23
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2b0010_SBCK_007-45a}
+metadata:
+  title: 資治通鑑目錄
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-24 22:23:45.342034'
+  source:
+    repository: kanripo
+    path: KR2b0010/KR2b0010_023.txt
+hash: sha256:ac02e4a7dd344cee9510e6a7b0d4aca750ee5e1b38ee55df86771c3cf425bfd8
