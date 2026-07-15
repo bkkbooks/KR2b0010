@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2b0010_WYG_004-1a, image: WYG0311/WYG0311-0403a.png}
 body:
-  text: 資治通鑑目錄卷四宋司馬光撰資治通鑑目録卷四
-  hash: sha256:297fd2277c8a2ed0f16e1c7829b0cdc90629eba2d87d3b79a5766e6a4d3852da
+  text: 資治通鑑目録卷四宋司馬光撰資治通鑑目録卷四
+  hash: sha256:21f29033627ef2c6b33225b0672d3c49e429872b6042676f3bb3d862ee4cd9db
 metadata:
   title: 資治通鑑目錄
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2b0010/KR2b0010_004.txt
-hash: sha256:3c2bf4a34e8e25d49313d6796a1a65a1e37ea924d5d36fcb570403774c395b19
+hash: sha256:72e8581675763deb189fc94f76ccd0c3361df572c5f7bb242e1a5508def02226

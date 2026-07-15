@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2b0010_WYG_006-1a, image: WYG0311/WYG0311-0454a.png}
 body:
-  text: 資治通鑑目録卷七宋司馬光撰資治通鑑目錄卷七
-  hash: sha256:77dda9e6bd6d0334b669f003ab7838d4b8cf70d568c5e9bee57305404fcd1355
+  text: 資治通鑑目録卷七宋司馬光撰資治通鑑目録卷七
+  hash: sha256:37dcc524dd5ea0b1b1d81986f05274f396386da5407d5c344f5bd360735abbb6
 metadata:
   title: 資治通鑑目錄
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2b0010/KR2b0010_006.txt
-hash: sha256:3dc19bbdb0963a92980637532a498ac50e8686760583d68cf48c40b4520b8936
+hash: sha256:105a6220d8515c879faa9ffa556573afe894c63be5a314334c5c66b72f5eb9da

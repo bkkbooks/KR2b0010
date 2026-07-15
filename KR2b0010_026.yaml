@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2b0010_WYG_026-1a, image: WYG0311/WYG0311-0939a.png}
 body:
-  text: 資治通鑑目錄卷三十宋司馬光撰資治通鑑目録巻三十
-  hash: sha256:c1b46ce2b72384ff9050a9c6d52ecd801ec2427dc3115d211ec0ea9dd14b7ea5
+  text: 資治通鑑目録卷三十宋司馬光撰資治通鑑目録卷三十
+  hash: sha256:c3cfa1e83f43783bd1a459d94c55ec00d086f3f2bac244b74f351e3f34eabcce
 metadata:
   title: 資治通鑑目錄
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2b0010/KR2b0010_026.txt
-hash: sha256:46d7bb7c40df9f310bd3e1edb2adb24a8efa5cec08bf8816ec4ab55942344a1b
+hash: sha256:d59c1acb6b691d33bf3d83b4dc518558ba08174cda5e08a3add90f6847b4fc09
